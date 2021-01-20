@@ -18,5 +18,10 @@
   "bugs": {
     "url": "https://github.com/yunxie95/theMovie/issues"
   },
-  "homepage": "https://github.com/yunxie95/theMovie#readme"
+  "homepage": "https://github.com/yunxie95/theMovie#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongodb": "^3.6.3",
+    "mongoose": "^5.11.12"
+  }
 }
