@@ -1,0 +1,22 @@
+{
+  "name": "themovie",
+  "version": "1.0.0",
+  "description": "this is the backend for movie website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yunxie95/theMovie.git"
+  },
+  "keywords": [
+    "movie"
+  ],
+  "author": "Yun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yunxie95/theMovie/issues"
+  },
+  "homepage": "https://github.com/yunxie95/theMovie#readme"
+}
